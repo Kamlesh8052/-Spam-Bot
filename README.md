@@ -6,11 +6,11 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [🇰𝗶𝗻𝗴 🇭𝗮𝗰𝗸𝗲𝗿(https://t.me/K
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://te.legra.ph/file/4f0335152fd7520a90799.jpg"></a>
 
-  <img src="https://te.legra.ph/file/4f0335152fd7520a90799.jpg">
+  <!-- <img src="https://te.legra.ph/file/4f0335152fd7520a90799.jpg"> -->
 </p>
 
-![logo](https://telegra.ph/file/add950cb92d97e29f97c3.jpg)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- ![logo](https://telegra.ph/file/add950cb92d97e29f97c3.jpg) -->
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 # Hᴏsᴛɪɴɢ
 
