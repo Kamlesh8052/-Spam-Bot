@@ -6,7 +6,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [🇰𝗶𝗻𝗴 🇭𝗮𝗰𝗸𝗲𝗿(https://t.me/K
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://te.legra.ph/file/4f0335152fd7520a90799.jpg"></a>
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
+  <img src="https://te.legra.ph/file/4f0335152fd7520a90799.jpg">
 </p>
 
 ![logo](https://telegra.ph/file/add950cb92d97e29f97c3.jpg)
